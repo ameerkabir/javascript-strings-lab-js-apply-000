@@ -1,6 +1,6 @@
 var greeting = "Hello, everybody!";
 
-var specialGuest = "nodejs!!";
+var specialGuest = "nodejs";
 
 var greetSpecialGuest = `Hell0, ${specialGuest} !`;
 
