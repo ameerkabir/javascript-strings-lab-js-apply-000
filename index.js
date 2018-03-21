@@ -4,6 +4,6 @@ var specialGuest = "nodejs";
 
 var greetSpecialGuest = `Hello, ${specialGuest}!`;
 
-var topic = `${space}`;
+var topic = "space";
 
 var conversation = `${topic}`;
