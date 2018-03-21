@@ -2,7 +2,7 @@ var greeting = "Hello, everybody!";
 
 var specialGuest = "nodejs";
 
-var greetSpecialGuest = `Hell0, ${specialGuest}!`;
+var greetSpecialGuest = `Hello, ${specialGuest}!`;
 
 var topic = `${space}`;
 
